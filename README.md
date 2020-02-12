@@ -12,3 +12,13 @@
 > pytest.ini: pytest配置
 > run.py:     主运行
 ```
+## 接口测试框架流程
+```python
+> 主程序运行（pytest框架）
+> Excel用例（数据驱动）
+> 配置文件（yaml）
+> Request
+> 断言（结果断言，数据库验证）
+> 报告（Allure）
+> 邮件
+```
