@@ -1,0 +1,2 @@
+DEBUG    Requests:RequestsUtil.py:19 发送post请求
+DEBUG    Requests:RequestsUtil.py:15 发送get请求

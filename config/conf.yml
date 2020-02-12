@@ -1,0 +1,13 @@
+BASE:
+  log_level: "debug"
+  log_extension: ".log"
+  test:
+    url: "xxxxxx"
+    case_file: "testdata.xlsx"
+    case_sheet: "Candyabc接口测试"
+
+email:
+  smtpserver: "smtp.163.com"
+  username: "xxxxxx@163.com"
+  password: "xxxxxx"
+  receiver: "xxxxxx@163.com"

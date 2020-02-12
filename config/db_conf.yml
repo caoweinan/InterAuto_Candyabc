@@ -1,0 +1,7 @@
+db_1:
+  db_host: "xxxxx"
+  db_user: "xxxxx"
+  db_password: "xxxxxx"
+  db_name: "xxxxxx"
+  db_charset: "utf8mb4"
+  db_port: "3306"

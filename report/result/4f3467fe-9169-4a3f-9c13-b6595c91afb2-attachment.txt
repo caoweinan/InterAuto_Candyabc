@@ -1,0 +1,3 @@
+DEBUG    Requests:RequestsUtil.py:71 发送post请求
+DEBUG    Requests:RequestsUtil.py:67 发送get请求
+DEBUG    /Users/weinancao/PycharmProjects/InterAuto_Candyabc/utils/LogUtil.py:Base.py:42 数据库查询结果：{'id': 1, 'username': 'python', 'mobile': '17701397029', 'email': '952673638@qq.com'}

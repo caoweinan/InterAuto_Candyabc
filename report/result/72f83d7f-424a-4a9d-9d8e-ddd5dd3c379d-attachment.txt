@@ -1,0 +1,2 @@
+DEBUG    Requests:RequestsUtil.py:71 发送post请求
+ERROR    AssertUtil:AssertUtil.py:24 code error, code is 404, expected_code is 200
